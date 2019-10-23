@@ -16,3 +16,6 @@ categories: jekyll update
 
 ### 베이지안 최적화 이미지
 ![](/image/베이지안.png)
+
+2019/10/23
+
